@@ -5,9 +5,9 @@ from aiogram import Bot, Dispatcher, executor, types
 wikipedia.set_lang('uz')
 
 API_TOKEN = '2114389627:AAEUU1eDbrsMg96Ga1CbrTY5ujImCGBdu-w'
-# Configure logging
+
 logging.basicConfig(level=logging.INFO)
-# Initialize bot and dispatcher
+
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
 
@@ -30,4 +30,4 @@ async def sendwiki(message: types.Message):
 
 
 if __name__ == '__main__':
-    executor.start_polling(dp, skip_updates=False)
+    executor.start_polling(dp, skip_updates=True)
