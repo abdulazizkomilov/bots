@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2c42433-2998-423d-9f4d-33f8e3767817" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_bot/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_bot/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translate_bot/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/translate_bot/Pipfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/translate_bot" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -77,6 +76,7 @@
       <updated>1637860160862</updated>
       <workItem from="1637860163088" duration="2659000" />
       <workItem from="1638018796411" duration="4847000" />
+      <workItem from="1638198172813" duration="739000" />
     </task>
     <servers />
   </component>

@@ -7,7 +7,7 @@ name = "pypi"
 requests = "*"
 aiogram = "~=2.14"
 googletrans = "==3.1.0a0"
-pydictionary = "==2.0.1"
+pydictionary = "~=2.0.1"
 
 [dev-packages]
 
