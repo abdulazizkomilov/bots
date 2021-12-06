@@ -1,3 +1,4 @@
+from . import kontenthandlers
 from . import commandsFiltr
 from . import help
 from . import start
